@@ -2,6 +2,6 @@
 Note of all Project Ideas
 
 - Codeforces-Auto Commit
-- Testcase 
+- Testcase Parser
 - PastryDHT
 - Todo Application
