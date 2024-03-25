@@ -1,6 +1,7 @@
 # Ideas
-Note of all Project Ideas
+## Note of all Project Ideas
 
+- Whiteboard
 - Codeforces-Auto Commit
 - Testcase Parser
 - PastryDHT
