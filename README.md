@@ -5,3 +5,5 @@ Note of all Project Ideas
 - Testcase Parser
 - PastryDHT
 - Todo Application
+- Create Music Player
+- Create Live Code Editor
