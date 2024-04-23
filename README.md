@@ -1,11 +1,10 @@
 # Ideas
 ### Note of all Project Ideas
 
-- Whiteboard
+- Whiteboard : https://whiteboard-it.vercel.app/
 - Codeforces-Auto Commit
 - Testcase Parser
 - PastryDHT
 - Todo Application
 - Create Music Player
 - Create Live Code Editor
-- https://whiteboard-it.vercel.app/
